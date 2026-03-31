@@ -113,7 +113,7 @@ http://localhost:3000
 
 ### Use the Deployed Version
 The deployed version is a .vercel.app domain. You may visit the link
-https://cortext.vercel.app
+https://cortext-plum.vercel.app
 
 ---
 
